@@ -1,6 +1,9 @@
 
 Teacher Management System with GUITeacher Management System with GUI
-    Apr 2024 - May 2024
+
+
+ Apr 2024 - May 2024
+ 
 Developed a Java Swing-based GUI for managing teacher information, supporting the addition, grading, and removal of Lecturer and Tutor objects.
 
 Key Features:
