@@ -18,4 +18,5 @@ This project demonstrates my proficiency in Java, GUI design, and object-oriente
 
 Key Features: Add and manage detailed records for lecturers and tutors. Grade assignments and set salaries with easy-to-use interface buttons. Display and clear teacher information efficiently. This project demonstrates my proficiency in Java, GUI design, and object-oriented programming.
 
+
 Skills: Java · Graphical User Interface (GUI) · Object-Oriented Programming (OOP) · ui/ux
